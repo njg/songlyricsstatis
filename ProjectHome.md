@@ -1,0 +1,1 @@
+Program used to make semantic and linguistic statistics on song lyrics.
